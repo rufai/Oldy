@@ -1,0 +1,14 @@
+server:
+    port: 8090
+spring:
+    application:
+        name: Oldy
+    r2dbc:
+        url: r2dbc:postgresql://localhost:5432/postgres
+        username: postgres
+        password: kiki
+    flyway:
+        url: jdbc:postgresql://localhost:5432/postgres
+        user: postgres
+        password: kiki
+

@@ -1,0 +1,9 @@
+insert into students (id, firstname, lastname, age) values (459, 'Vivianne', 'Kiddy', 181);
+insert into students (id, firstname, lastname, age) values (160, 'Marieann', 'Kiehl', 172);
+insert into students (id, firstname, lastname, age) values (961, 'Blakeley', 'Loveredge', 112);
+insert into students (id, firstname, lastname, age) values (862, 'Madlen', 'Poller', 193);
+insert into students (id, firstname, lastname, age) values (763, 'Lew', 'Nichols', 130);
+insert into students (id, firstname, lastname, age) values (664, 'Clyve', 'Human', 133);
+insert into students (id, firstname, lastname, age) values (565, 'Drugi', 'Dumphries', 112);
+insert into students (id, firstname, lastname, age) values (466, 'Jorey', 'Brownill', 133);
+insert into students (id, firstname, lastname, age) values (267, 'Christalle', 'Bellany', 112);
